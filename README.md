@@ -1,43 +1,177 @@
-<h1 align="center">Hi 👋, I'm Hemanth Selam</h1>
-<h3 align="center">A passionate Linux Kernel Developer from India</h3>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zumrudu-anka.zumrudu-anka">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=selamhemanth&label=Profile%20views&color=0e75b6&style=flat" alt="selamhemanth" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=selamhemanth" alt="selamhemanth" /></a> </p>
-
-- 🔭 I’m currently working on Linux Kernel **Backporting**
-
-- 🌱 I’m currently learning **Virtualization, AI , Automation Frame Works and etc.,.**
-
-- 👯 I’m looking to collaborate on AMD **Linux Kernel Backport**
-
-- 👨‍💻 All of my projects are available at [www.github.com/SelamHemanth/](www.github.com/SelamHemanth/)
-
-- 📫 How to reach me **hemanth.selam@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/15dvM7LIu05nlpvTYVQqJOBcjCaGliyVi/view?usp=drive_link](https://drive.google.com/file/d/15dvM7LIu05nlpvTYVQqJOBcjCaGliyVi/view?usp=drive_link)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/hemanth selam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hemanth selam" height="30" width="40" /></a>
-<a href="https://fb.com/hemanth hemu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hemanth hemu" height="30" width="40" /></a>
-<a href="https://instagram.com/______hemanth_____" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="______hemanth_____" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/hemanth hemu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hemanth hemu" height="30" width="40" /></a>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Hemanth+Selam....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+<br>
+<p align="center">
+  Hi, I'm Hemanth Selam, Linux Kernel Developer & Embeddded Engineer & Software Developer from India
+  <br>
+  🎓 I graduated from Audisankara College Of Engineering & Technology, Department of Electrical & Electronics Engineering (Undergraduate)
+  <br>
+  🎓 I graduated from Zilla Praja Parishath High School
+  <br>
+  💻 I love writing code and learn anythings about it
+  <br>
+  📚 I’m currently learning how to build linux kernel backporting automation with python, shell & C languages
+  <br>
+  💬 Ask me anything about from <a href="https://github.com/SelamHemanthSelamHemanth/issues" title="Issues">Here</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<br>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/SelamHemanth"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="SelamHemanth" /></a></p><br><br>
+<h2 align="left" id="macropower-tech">Favorite Tech</h2>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=selamhemanth&show_icons=true&locale=en&layout=compact" alt="selamhemanth" /></p>
+> Tools, languages, and other things that I like to work with.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=selamhemanth&show_icons=true&locale=en" alt="selamhemanth" /></p>
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#SelamHemanth">
+        <img src="./images/arduino.gif" width="48" height="48"/>
+      </a>
+      <br>arduino
+    </td>
+    <td align="center" width="96">
+      <a href="#SelamHemanth">
+        <img src="./images/c.gif" width="48" height="48"/>
+      </a>
+      <br>C
+    </td>
+    <td align="center" width="96">
+      <a href="#SelamHemanth">
+        <img src="./images/chatgpt.gif" width="48" height="48" alt="Jsonnet" />
+      </a>
+      <br>Chatgpt
+    </td>
+    <td align="center" width="96">
+      <a href="#SelamHemanth">
+        <img src="./images/copilot.gif" width="48" height="48" alt="Jsonnet" />
+      </a>
+      <br>Copilot
+    </td>
+    <td align="center" width="96">
+      <a href="#SelamHemanth">
+        <img src="./images/gitlab.gif" width="48" height="48" alt="Jsonnet" />
+      </a>
+      <br>GitLab
+    </td>
+    <td align="center" width="96">
+      <a href="#SelamHemanth">
+        <img src="./images/html.gif" width="48" height="48" alt="Jsonnet" />
+      </a>
+      <br>HTML
+    </td>
+    <td align="center" width="96">
+      <a href="#SelamHemanth">
+        <img src="./images/jenkins.gif" width="48" height="48" alt="Jsonnet" />
+      </a>
+      <br>Jenkins
+    </td>
+    <td align="center" width="96">
+      <a href="#SelamHemanth">
+        <img src="./images/chatgpt.gif" width="48" height="48" alt="Jsonnet" />
+      </a>
+      <br>Chatgpt
+    </td>
+    <td align="center" width="96">
+      <a href="#SelamHemanth">
+        <img src="./images/keil.png" width="48" height="48" alt="Jsonnet" />
+      </a>
+      <br>Keil
+    </td>
+    <td align="center" width="96">
+      <a href="#SelamHemanth">
+        <img src="./images/linux.gif" width="48" height="48" alt="Jsonnet" />
+      </a>
+      <br>Linux
+    </td>
+    <td align="center" width="96">
+      <a href="#SelamHemanth">
+        <img src="./images/matlab.gif" width="48" height="48" alt="Jsonnet" />
+      </a>
+      <br>MatLab
+    </td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#SelamHemanth">
+        <img src="./images/photoshop.gif" width="48" height="48"/>
+      </a>
+      <br>Photoshop
+    </td>
+    <td align="center" width="96">
+      <a href="#SelamHemanth">
+        <img src="./images/python.gif" width="48" height="48"/>
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <a href="#SelamHemanth">
+        <img src="./images/shell.gif" width="48" height="48" alt="Jsonnet" />
+      </a>
+      <br>Shell
+    </td>
+    <td align="center" width="96">
+      <a href="#SelamHemanth">
+        <img src="./images/shotcut.gif" width="48" height="48" alt="Jsonnet" />
+      </a>
+      <br>Shotcut
+    </td>
+    <td align="center" width="96">
+      <a href="#SelamHemanth">
+        <img src="./images/stm32.png" width="48" height="48" alt="Jsonnet" />
+      </a>
+      <br>STM32
+    </td>
+    <td align="center" width="96">
+      <a href="#SelamHemanth">
+        <img src="./images/teraterm.jpeg" width="48" height="48" alt="Jsonnet" />
+      </a>
+      <br>TearTerm
+    </td>
+    <td align="center" width="96">
+      <a href="#SelamHemanth">
+        <img src="./images/terminal.gif" width="48" height="48" alt="Jsonnet" />
+      </a>
+      <br>Terminal
+    </td>
+    <td align="center" width="96">
+      <a href="#SelamHemanth">
+        <img src="./images/vim.jpg" width="48" height="48" alt="Jsonnet" />
+      </a>
+      <br>Vim
+    </td>
+  </tr>
+</table>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=selamhemanth&" alt="selamhemanth" /></p>
+<h2 align="left" id="SelamHemanth">Stats</h2>
 
-###
+<br> 
+<img align="right" height="250" width="375" alt="GIF" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" width="360px/>
+  
+<br>
+<p align=center>
+   <br>
+  <div align=left>
+    <a href="https://github.com/SelamHemanth" title="Go to Source">
+      <img align="left" width=600 src="https://streak-stats.demolab.com/?user=zumrudu-anka&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
+    </a>
+    <a href="https://github.com/SelamHemanth" title="Go to Source">
+      <img align="left" width=600 src="https://github-readme-stats.vercel.app/api?username=zumrudu-anka&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+  </p>  
+<h4 align="center">
+  <a href="https://github.com/SelamHemanth?tab=repositories" title="Show Repositories">🔎 Repositories 🔍</a>
+</h4>
+
+####
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -52,4 +186,17 @@
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
-###
+
+<br>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/hemanth-selam-74248623b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100012137200720" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" /></a>
+<a href="https://www.instagram.com/________hemanth________/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@Hemanth_Selam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40" /></a>
+<a href="hemanth.selam@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="30" width="40" /></a>
+</p>
+
+<p align="center">
+        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
