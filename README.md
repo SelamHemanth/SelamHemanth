@@ -150,11 +150,7 @@
   </tr>
 </table>
 
-<h2 align="left" id="SelamHemanth">Stats</h2>
-
-<br> 
-<img align="right" height="250" width="375" alt="GIF" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" width="360px/>
-  
+<h2 align="left" id="SelamHemanth">Stats</h2> 
 <br>
 <p align=center>
    <br>
