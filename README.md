@@ -167,9 +167,6 @@
     </a>
   </div>
   </p>  
-<h4 align="center">
-  <a href="https://github.com/SelamHemanth?tab=repositories" title="Show Repositories">🔎 Repositories 🔍</a>
-</h4>
 
 ####
 <picture>
@@ -200,3 +197,6 @@
 <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
+<h4 align="center">
+  <a href="https://github.com/SelamHemanth?tab=repositories" title="Show Repositories">🔎 Repositories 🔍</a>
+</h4>
