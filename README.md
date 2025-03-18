@@ -18,7 +18,7 @@
   <br>
   📚 I’m currently learning how to build linux kernel backporting automation with python, shell & C languages
   <br>
-  💬 Ask me anything about from <a href="https://github.com/SelamHemanthSelamHemanth/issues" title="Issues">Here</a>
+  💬 Ask me anything about from <a href="https://github.com/SelamHemanth/SelamHemanth/issues" title="Issues">Here</a>
 </p>
 
 <br>
@@ -73,12 +73,6 @@
     </td>
     <td align="center" width="96">
       <a href="#SelamHemanth">
-        <img src="./images/chatgpt.gif" width="48" height="48" alt="Jsonnet" />
-      </a>
-      <br>Chatgpt
-    </td>
-    <td align="center" width="96">
-      <a href="#SelamHemanth">
         <img src="./images/keil.png" width="48" height="48" alt="Jsonnet" />
       </a>
       <br>Keil
@@ -113,37 +107,37 @@
     </td>
     <td align="center" width="96">
       <a href="#SelamHemanth">
-        <img src="./images/shell.gif" width="48" height="48" alt="Jsonnet" />
+        <img src="./images/shell.gif" width="48" height="48"/>
       </a>
       <br>Shell
     </td>
     <td align="center" width="96">
       <a href="#SelamHemanth">
-        <img src="./images/shotcut.gif" width="48" height="48" alt="Jsonnet" />
+        <img src="./images/shotcut.gif" width="48" height="48"/>
       </a>
       <br>Shotcut
     </td>
     <td align="center" width="96">
       <a href="#SelamHemanth">
-        <img src="./images/stm32.png" width="48" height="48" alt="Jsonnet" />
+        <img src="./images/stm32.png" width="48" height="48"/>
       </a>
       <br>STM32
     </td>
     <td align="center" width="96">
       <a href="#SelamHemanth">
-        <img src="./images/teraterm.jpeg" width="48" height="48" alt="Jsonnet" />
+        <img src="./images/teraterm.jpeg" width="48" height="48"/>
       </a>
       <br>TearTerm
     </td>
     <td align="center" width="96">
       <a href="#SelamHemanth">
-        <img src="./images/terminal.gif" width="48" height="48" alt="Jsonnet" />
+        <img src="./images/terminal.gif" width="48" height="48"/>
       </a>
       <br>Terminal
     </td>
     <td align="center" width="96">
       <a href="#SelamHemanth">
-        <img src="./images/vim.jpg" width="48" height="48" alt="Jsonnet" />
+        <img src="./images/vim.jpg" width="48" height="48"/>
       </a>
       <br>Vim
     </td>
